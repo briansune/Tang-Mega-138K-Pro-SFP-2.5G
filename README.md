@@ -1,5 +1,9 @@
 # TangMega-138KPro-SFP-2.5G
 
+## If this project is constructive, welcome to donate a drink to PayPal.
+
+<img src="https://github.com/briansune/FPGA-Camera-MIPI-DVP-Verilog/assets/29487339/75ccc568-4f17-48a1-b2af-20211f98896c" style="height:20%; width:20%">
+
 This example is modified from https://www.gowinsemi.com/en/support/ip_detail/150/
 
 The purpose of the SFP 2.5G loop is to verify the sanity of the SFP+ hardware and interface.
